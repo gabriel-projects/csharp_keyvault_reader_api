@@ -1,0 +1,6 @@
+@Api.GRRInnovations.KeyVaultReader_HostAddress = http://localhost:5047
+
+GET {{Api.GRRInnovations.KeyVaultReader_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
